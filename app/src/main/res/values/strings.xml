@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">InterfaceListFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="link_nextu">http://www.nextuniversity.com</string>
+    <string name="certificacion_android">Certificación Android</string>
+    <string name="descripcion_android">Descripción de la certificación de desarrollo en Android.</string>
+
+    <string-array name="certificados">
+        <item>Certificado de Desarrollador Android</item>
+        <item>Certificado de Desarrollador iOS</item>
+        <item>Certificado de Desarrollador Web</item>
+        <item>Certificado de Desarrollador Javascript</item>
+    </string-array>
+
+    <string-array name="descripciones">
+        <item>
+            El Certificado Desarrollador Móvil Android te proporcionará las habilidades esenciales
+            de programación y diseño que se necesitan para crear aplicaciones móviles para Android.
+        </item>
+        <item>
+            iOS es el sistema operativo móvil mas avanzado. Aprende a programar utilizando las
+            tecnologías más avanzadas del sistema. El certificado Desarrollador Móvil iOS te
+            proveerá las habilidades de programación y diseño necesarias para crear apps dinámicas
+            e intuitivas para los diferentes dispositivos Apple.
+        </item>
+        <item>
+            Aprende a desarrollar sitios web de principio a fin. El Certificado te proporciona las
+            habilidades de programación y diseño esenciales que necesitas para crear sitios web
+            dinámicos.
+        </item>
+        <item>
+            JavaScript se está apoderando de la web. Aprende a construir sitios web atractivos e
+            interactivos de principio a fin. El Certificado en JavaScript te da las herramientas
+            de programación y diseño esenciales para crear sitios web dinámicos.
+        </item>
+    </string-array>
+</resources>
